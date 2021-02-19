@@ -1,2 +1,2 @@
 # project-6
-Détecter des faux billets de banque
+Détecter des faux billets de banque.
